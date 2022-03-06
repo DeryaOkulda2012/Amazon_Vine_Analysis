@@ -16,9 +16,9 @@ Summary
 
 | | Total | Paid Review (Vine) | Unpaid Review (Not Vine) |
 | ------------: | -------------: | ------------: | ------------: |
-| 5 Star | 30414 | 432  | 29982 |
-| 4 Star or Less | 32880 | 834 | 32046 |
-| Grand Total  | Content Cell | Percent of Paid Vine Reviews 5 star | 62028 |
+| 5 Star | 30,414 | 432  | 29,982 |
+| 4 Star or Less | 32,880 | 834 | 32,046 |
+| Grand Total  | 63,294 | 1,266 | 62,028 |
 
 
 | First Header  | Second Header | Third Header | Fourth Header | Fifth Header |
