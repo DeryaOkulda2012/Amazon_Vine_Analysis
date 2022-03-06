@@ -14,12 +14,11 @@ Below 5	17753	48	17705
 Summary
 
 
-| First Header  | Second Header | Total | Paid Review (Vine) | Unpaid Review (Not Vine) |
-| ------------- | ------------- | ------------ | ------------- | ------------ |
-| Content Cell  | 5 Star | 30414 | 432  | 29982 |
-| Content Cell  | 4 Star or Less | 32880 | 834 | 32046 |
-| Content Cell  | Content Cell  | Content Cell | Percent of Paid Vine Reviews 5 star | 34.12322% |
-| Content Cell  | Content Cell  | Content Cell | Percent of Unpaid non-Vine reviews that were 5 star  | 48.33624% |
+| Total | Paid Review (Vine) | Unpaid Review (Not Vine) |
+| ------------ | ------------- | ------------ |
+| 5 Star | 30414 | 432  | 29982 |
+| 4 Star or Less | 32880 | 834 | 32046 |
+| Grand Total  | Content Cell | Percent of Paid Vine Reviews 5 star | 62028 |
 
 
 | First Header  | Second Header | Third Header | Fourth Header | Fifth Header |
