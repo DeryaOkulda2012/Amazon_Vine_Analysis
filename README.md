@@ -21,11 +21,11 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - 5-star non-Vine reviews: 29,982
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-- % of 5-star Vine reviews: 34.12322%
-- % of 5-star Non-Vine reviews: 48.33624%
+- Percentage of 5-star Vine reviews: 34.12322%
+- Percentage of 5-star Non-Vine reviews: 48.33624%
 
 ### Grand Total:
-- % of all reviews that were 5-star: 48.05195%
+- Percentage of all reviews that were 5-star: 48.05195%
 
 The table below shows the results of the analysis:
 
