@@ -11,6 +11,16 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 !["images/01_cleaned_pct_df.png"](images/01_cleaned_pct_df.png)
 
+!["images/02_paid_vine_df.png"](images/02_paid_vine_df.png)
+
+!["images/03_unpaid_vine_df.png"](images/03_unpaid_vine_df.png)
+
+!["images/04_total_reviews.png"](images/04_total_reviews.png)
+
+!["images/05_Vine_summary.png"](images/05_Vine_summary.png)
+
+!["images/06_Vine_pct_summary.png"](images/06_Vine_pct_summary.png)
+
 ## Results
 
 The Toys product category data set was used for this analysis.
