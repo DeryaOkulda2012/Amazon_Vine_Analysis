@@ -24,11 +24,12 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 - % of 5-star Vine reviews: 34.12322%
 - % of 5-star Non-Vine reviews: 48.33624%
 
+## Grand Total:
 - % of all reviews that were 5-star: 48.05195%
 
 The table below shows the results of the analysis:
 
-| | Paid Review (Vine) | Unpaid Review (Not Vine) | Total |
+| | Paid Review (Vine) | Unpaid (Not Vine) | Total |
 | ------------: | -------------: | ------------: | ------------: |
 | 5 Star | 432  | 29,982 |  30,414 |
 | Less than 5 Star | 834 | 32,046 | 32,880 |
