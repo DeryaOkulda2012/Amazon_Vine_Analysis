@@ -18,12 +18,12 @@ Summary
 | ------------: | -------------: | ------------: | ------------: |
 | 5 Star | 30,414 | 432  | 29,982 |
 | 4 Star or Less | 32,880 | 834 | 32,046 |
-| Grand Total  | 63,294 | 1,266 | 62,028 |
+| Total  | 63,294 | 1,266 | 62,028 |
 
 
 | | Percent |
 | ------------: | -------------: |
-| All reviews that were 5 star | 48.05195% |
 | Paid (Vine) reviews that were 5 star | 34.12322% |
 | Unpaid reviews that were 5 star | 48.33624% |
+| All reviews that were 5 star | 48.05195% |
 
