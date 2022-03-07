@@ -59,9 +59,9 @@ Based on this sampling, it is unclear if the Paid Vine reviewers were more bruta
 
 ## Recommendations for Further Analysis
 
-- For this assignment we are only assessing 5-star reviews as opposed to all the reviews. For example, we can create a frequency dataframe of Paid Vine reviews vs Unpaid for each number of stars (5,4,3,2,1) against the total reviews to drill further down into the data.
+- For this assignment we are only assessing 5-star reviews as opposed to all the other reviews. For example, we can create a frequency dataframe of Paid Vine reviews vs Unpaid for each number of stars (5,4,3,2,1) against the total reviews to drill further down into the data.
 
-- A simpler analysis would be to assess the balance of Paid Vine vs. Unpaid reviews that were positive or 5-star and compare to reviews that were negative or 1- or 2-stars only.
+- A simpler analysis could be to assess the balance of Paid Vine vs. Unpaid reviews that were positive or 5-star and compare to reviews that were negative or 1- or 2-stars only.
 
 - Additionally, Natural Language Processing (NLP) could be used to further analyze the sentiments of each reviewer for further fidelity in understanding customer views of various products.
 
