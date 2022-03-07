@@ -12,6 +12,20 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 The Toys product category data set was used for this analysis.
 
+There were 1,266 Vine (Paid) reviews and 62,028 non-vine reviews for a total of 63,294 reviews.
+- Total Vine reviews: 1,266
+- Total non-Vine reviews: 62,028
+
+How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- 5-star Vine reviews: 432
+- 5-star non-Vine reviews: 29,982
+
+What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- % of 5-star Vine reviews: 34.12322%
+- % of 5-star Non-Vine reviews: 48.33624%
+
+- % of all reviews that were 5-star: 48.05195%
+
 The table below shows the results of the analysis:
 
 | | Paid Review (Vine) | Unpaid Review (Not Vine) | Total |
@@ -21,15 +35,5 @@ The table below shows the results of the analysis:
 | Total  | 1,266 | 62,028 | 63,294 |
 | 5-Star Percentage | 34.12% | 48.34% | 48.05% |
 
-There were 1,266 Vine (Paid) reviews and 62,028 non-vine reviews for a total of 63,294 reviews.
-Total Vine reviews: 1,266
-Total non-Vine reviews: 62,028
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-5-star Vine reviews: 432
-5-star non-Vine reviews: 29,982
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-% of 5-star Vine reviews: 34.12322%
-% of 5-star Non-Vine reviews: 48.33624%
-% of all reviews that were 5-star: 48.05195%
 
 
