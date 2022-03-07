@@ -21,10 +21,9 @@ Summary
 | Grand Total  | 63,294 | 1,266 | 62,028 |
 
 
-| Third Header | Fourth Header | Fifth Header |
-| ------------: | -------------: | ------------: |
-| Content Cell  | Content Cell |
-| Percent of all 5 star reviews | 48.05195% |
-| Percent of Paid Vine Reviews 5 star | 34.12322% |
-| Percent of Unpaid non-Vine reviews that were 5 star  | 48.33624% |
+| | Percent |
+| ------------: | -------------: |
+| All reviews that were 5 star | 48.05195% |
+| Paid (Vine) reviews that were 5 star | 34.12322% |
+| Unpaid reviews that were 5 star | 48.33624% |
 
