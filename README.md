@@ -17,7 +17,7 @@ Summary
 | | Paid Review (Vine) | Unpaid Review (Not Vine) | Total |
 | ------------: | -------------: | ------------: | ------------: |
 | 5 Star | 432  | 29,982 |  30,414 |
-| 4 Star or Less | 834 | 32,046 | 32,880 |
+| Less than 5 Star | 834 | 32,046 | 32,880 |
 | Total  | 1,266 | 62,028 | 63,294 |
 
 
