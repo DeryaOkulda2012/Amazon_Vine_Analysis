@@ -24,7 +24,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 - % of 5-star Vine reviews: 34.12322%
 - % of 5-star Non-Vine reviews: 48.33624%
 
-## Grand Total:
+### Grand Total:
 - % of all reviews that were 5-star: 48.05195%
 
 The table below shows the results of the analysis:
@@ -34,7 +34,7 @@ The table below shows the results of the analysis:
 | 5 Star | 432  | 29,982 |  30,414 |
 | Less than 5 Star | 834 | 32,046 | 32,880 |
 | Total  | 1,266 | 62,028 | 63,294 |
-| 5-Star Percentage | 34.12% | 48.34% | 48.05% |
+| 5-Star Percentage | 34.12 % | 48.34 % | 48.05 % |
 
 
 
