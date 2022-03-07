@@ -51,7 +51,10 @@ The table below shows the results of the analysis:
 
 
 ## Summary
-When we analyze at the product reviews in the Toys category, a definite bias of paid Vine member reviews was present. Although there were many more Paid Vine reviewers as opposed to Unpaid reviewers (1,266 vs. 62,028) Paid Vine reviewers tended to review towards less than 5-star (34.12322 %), as opposed to Unpaid reviewers who gave 5-stars more times (48.33624 %).
+
+When we analyze the product reviews in the Toys category, a definite bias of paid Vine member reviews was present, but not what was expected. Although there were many more Paid Vine reviewers as opposed to Unpaid reviewers (1,266 vs. 62,028), Paid Vine reviewers tended to review towards less than 5-star (34.12322 %), as opposed to Unpaid reviewers who gave 5-stars more times (48.33624 %).
+
+Based on this sampling, it is unclear if the Paid Vine reviewers were more brutal in their assessments or if this was merely a statistical peculiarity. We should dig deeper into the reviews to get a better idea of what the reviewers' assessments.
 
 
 ## Recommendations for Further Analysis
