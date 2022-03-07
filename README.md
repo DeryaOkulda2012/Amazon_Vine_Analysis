@@ -14,7 +14,7 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 The Toys product category data set was used for this analysis.
 
-There were 1,266 Vine (Paid) reviews and 62,028 non-vine reviews for a total of 63,294 reviews.
+How many Vine reviews and non-Vine reviews were there?
 - Total Vine reviews: 1,266
 - Total non-Vine reviews: 62,028
 
