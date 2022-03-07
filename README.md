@@ -14,11 +14,11 @@ Below 5	17753	48	17705
 Summary
 
 
-| | Total | Paid Review (Vine) | Unpaid Review (Not Vine) |
+| | Paid Review (Vine) | Unpaid Review (Not Vine) | Total |
 | ------------: | -------------: | ------------: | ------------: |
-| 5 Star | 30,414 | 432  | 29,982 |
-| 4 Star or Less | 32,880 | 834 | 32,046 |
-| Total  | 63,294 | 1,266 | 62,028 |
+| 5 Star | 432  | 29,982 |  30,414 |
+| 4 Star or Less | 834 | 32,046 | 32,880 |
+| Total  | 1,266 | 62,028 | 63,294 |
 
 
 | | Percent |
