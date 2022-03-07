@@ -9,6 +9,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 In this project, we have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. I picked the Amazon dataset for toys, then performed ETL on this data using AWS, Google Colaboratory, PostgreSQL, and PySpark. After that, I took a closer look at one of the tables made during the ETL phase regarding the vine reviews to determine if there was any bias for positivity in the reviews in the Vine Program.
 
+!["images/01_cleaned_pct_df.png"](images/01_cleaned_pct_df.png)
 
 ## Results
 
